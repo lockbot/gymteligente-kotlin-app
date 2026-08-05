@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Gymteligente</string>
+
+    <string name="initial_counter">0</string>
+
+    <string name="increase_btn">Increase</string>
+    <string name="decrease_btn">Decrease</string>
+    <string name="reset_btn">Reset</string>
 </resources>
